@@ -8,7 +8,7 @@ Versions:
 
 [Latest known working version](latest_updated_version)
 
-[Latest legacy source from Kyr0](src/legacy_source)
+[Latest legacy source from KyrO](src/legacy_source)
 
 [Unknown outdated versions](latest_updated_version%2Foutdated)
 
